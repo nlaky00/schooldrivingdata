@@ -55,3 +55,5 @@ trial,weekday,conditions,direction,route,entrance,daytime,time,special
 54,Wednesday,Good,School --> Home,41/Central,H,Afternoon,12.71666667,0
 55,Thursday,Good,Home --> School,41/Central,H,Morning,12.81666667,1
 56,Thursday,Good,School --> Home,41/Central,H,Afternoon,11.87166667,0
+57,Friday,Good,Home --> School,41/Central,H,Morning,12.615,0
+58,Saturday,Good,School --> Home,41/Central,Athletic,Afternoon,9.62333333333,0
