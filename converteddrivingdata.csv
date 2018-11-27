@@ -67,3 +67,13 @@ trial,weekday,conditions,direction,route,entrance,daytime,time,special
 66,Friday,Good,School --> Home,41/Central,H,Afternoon,11.365,0
 67,Monday,Good,Home --> School,41/Central,H,Morning,11.685,0
 68,Monday,Good,School --> Home,41/Central,H,Afternoon,13.17166666666,0
+69,Monday,Good,Home --> School,41/Central,H,Morning,10.96666666,0
+70,Tuesday,Rain,Home --> School,41/Central,H,Morning,9.98666666666,0
+71,Wednesday,Good,Home --> School,41/Central,H,Morning,10.06666666666,0
+72,Wednesday,Good,School --> Home,41/Central,H,Afternoon,9.295,0
+73,Thursday,Good,Home --> School,41/Central,H,Morning,14.10333333333,0
+74,Friday,Good,Home --> School,41/Central,H,Morning,10.85333333333,0
+75,Monday,Good,Home --> School,41/Central,H,Morning,9.06,0
+76,Tuesday,Good,Home --> School,41/Central,H,Morning,9.405,0
+77,Thursday,Good,Home --> School,41/Central,H,Morning,9.93666666666,0
+78,Thursday,Good,School --> Home,41/Central,H,Afternoon,13.915,0
